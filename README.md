@@ -1,1 +1,1 @@
-Im lazy to do this.
+1st prog lab :)
